@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <item name="button1" type="string">سبحان الله</item>
+    <item name="button2" type="string">الحمدلله</item>
+    <item name="button3" type="string">الله اكبر</item>
+    <item name="button4" type="string">لا اله الا الله</item>
+
+    <string-array name="b1">
+        <item >@string/button1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="b2">
+        <item>@string/button2</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="b3">
+        <item>@string/button3</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="b4">
+        <item>@string/button4</item>
+        <item>0</item>
+    </string-array>
+</resources>
